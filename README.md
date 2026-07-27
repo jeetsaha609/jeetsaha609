@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeetsaha609&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeetsaha609&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
