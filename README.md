@@ -60,13 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeetsaha609&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha609&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeetsaha609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -92,7 +87,7 @@
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeetsaha609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -100,9 +95,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeetsaha609&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jeetsaha609&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
