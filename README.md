@@ -9,7 +9,7 @@
 - 🤖 Interested in **Data Science, Machine Learning & AI**
 - 🌱 Currently learning **Python, SQL, Pandas, Scikit-learn & AI Development**
 - 🚀 Working on **Data Science Projects & Startup Ideas**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **jeetsaha5544@gmail.com**
 
 ---
 
