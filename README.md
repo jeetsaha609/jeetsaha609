@@ -107,14 +107,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha609&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## ⚡ GitHub Metrics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeetsaha609&theme=github_dark"/>
