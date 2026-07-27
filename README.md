@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials:
 
 <p align="left">
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/jeet-saha-a494492b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Tech Stack: 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,git,github,vscode,mysql"/>
